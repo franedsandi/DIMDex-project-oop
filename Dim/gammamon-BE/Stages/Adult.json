@@ -1,0 +1,203 @@
+{
+  "stage": "Adult / Champion",
+  "digimon": [
+    {
+      "name": "Betle Gammamon",
+      "attribute": "Vaccine",
+      "BP": 5200,
+      "HP": 3600,
+      "AP": 1200,
+      "activityType": "Stoic",
+      "criticalHit": "Turn 1",
+      "evolutions": [
+        {
+          "evolutionName": "Canoweissmon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 12,
+            "vitals": 3000,
+            "battles": 15,
+            "victoryPercent": "60%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Fumamon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 10,
+            "vitals": 2500,
+            "battles": 10,
+            "victoryPercent": "50%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Zanmetsumon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 8,
+            "vitals": 2000,
+            "battles": 10,
+            "victoryPercent": "40%",
+            "adventureCleared": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kaus Gammamon",
+      "attribute": "Data",
+      "BP": 5100,
+      "HP": 3400,
+      "AP": 1250,
+      "activityType": "Active",
+      "criticalHit": "Turn 2",
+      "evolutions": [
+        {
+          "evolutionName": "Canoweissmon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 12,
+            "vitals": 3000,
+            "battles": 15,
+            "victoryPercent": "60%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Bombermon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 10,
+            "vitals": 2500,
+            "battles": 10,
+            "victoryPercent": "50%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Zanmetsumon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 8,
+            "vitals": 2000,
+            "battles": 10,
+            "victoryPercent": "40%",
+            "adventureCleared": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wezen Gammamon",
+      "attribute": "Data",
+      "BP": 4800,
+      "HP": 3500,
+      "AP": 1300,
+      "activityType": "Indoor",
+      "criticalHit": "Turn 4",
+      "evolutions": [
+        {
+          "evolutionName": "Canoweissmon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 12,
+            "vitals": 3000,
+            "battles": 15,
+            "victoryPercent": "60%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Ghilliedhumon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 10,
+            "vitals": 2500,
+            "battles": 10,
+            "victoryPercent": "50%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Bombermon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 8,
+            "vitals": 2000,
+            "battles": 10,
+            "victoryPercent": "40%",
+            "adventureCleared": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gulus Gammamon",
+      "attribute": "Virus",
+      "BP": 5300,
+      "HP": 3700,
+      "AP": 1250,
+      "activityType": "Lazy",
+      "criticalHit": "Turn 5",
+      "evolutions": [
+        {
+          "evolutionName": "Regulusmon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 10,
+            "vitals": 2500,
+            "battles": 20,
+            "victoryPercent": "60%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Vamdemon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 12,
+            "vitals": 3000,
+            "battles": 15,
+            "victoryPercent": "60%",
+            "adventureCleared": 9
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sealsdramon",
+      "attribute": "Virus",
+      "BP": 5300,
+      "HP": 3500,
+      "AP": 1250,
+      "activityType": "Active",
+      "criticalHit": "Turn 2",
+      "evolutions": [
+        {
+          "evolutionName": "Fumamon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 10,
+            "vitals": 2500,
+            "battles": 20,
+            "victoryPercent": "50%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Vamdemon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 12,
+            "vitals": 2000,
+            "battles": 15,
+            "victoryPercent": "40%",
+            "adventureCleared": 9
+          }
+        }
+      ]
+    }
+  ]
+}

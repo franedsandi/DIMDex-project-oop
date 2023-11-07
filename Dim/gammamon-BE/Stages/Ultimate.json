@@ -1,0 +1,76 @@
+{
+  "stage": "Ultimate / Mega",
+  "digimon": [
+    {
+      "name": "Siriusmon",
+      "attribute": "Vaccine",
+      "BP": 6200,
+      "HP": 5300,
+      "AP": 1900,
+      "activityType": "Normal",
+      "criticalHit": "Turn 3",
+      "evolutions": [
+        {
+          "evolutionName": "Proximamon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 0,
+            "vitals": 0,
+            "battles": 0,
+            "victoryPercent": "None",
+            "adventureCleared": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arcturusmon",
+      "attribute": "Virus",
+      "BP": 6200,
+      "HP": 5200,
+      "AP": 2000,
+      "activityType": "Active",
+      "criticalHit": "Turn 2",
+      "evolutions": [
+        {
+          "evolutionName": "Proximamon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 0,
+            "vitals": 0,
+            "battles": 0,
+            "victoryPercent": "None",
+            "adventureCleared": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cannondramon",
+      "attribute": "Data",
+      "BP": 6500,
+      "HP": 5700,
+      "AP": 1800,
+      "activityType": "Indoor",
+      "criticalHit": "Turn 4"
+    },
+    {
+      "name": "Spinomon",
+      "attribute": "Virus",
+      "BP": 6450,
+      "HP": 4900,
+      "AP": 1850,
+      "activityType": "Normal",
+      "criticalHit": "Turn 3"
+    },
+    {
+      "name": "Kuzuhamon",
+      "attribute": "Data",
+      "BP": 6300,
+      "HP": 5300,
+      "AP": 1900,
+      "activityType": "Active",
+      "criticalHit": "Turn 2"
+    }
+  ]
+}

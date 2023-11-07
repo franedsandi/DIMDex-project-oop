@@ -1,0 +1,27 @@
+{
+  "stage": "Baby / Fresh",
+  "digimon": [
+    {
+      "name": "Curimon",
+      "attribute": "free",
+      "BP": 0,
+      "HP": 0,
+      "AP": 0,
+      "activityType": "none",
+      "criticalHit": "none",
+      "evolutions": [
+        {
+          "evolutionName": "Gurimon",
+          "requirements": {
+            "time": "1:00 hr",
+            "PP": 0,
+            "vitals": 0,
+            "battles": 0,
+            "victoryPercent": "0%",
+            "adventureCleared": 0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Bokomon",
+  "attribute": "Vaccine",
+  "BP": 4100,
+  "HP": 2800,
+  "AP": 1100,
+  "activityType": "Active",
+  "criticalHit": "Turn 2",
+  "evolutions": [
+    {
+      "evolutionName": "Betle Gammamon",
+      "requirements": {
+        "time": "12:00 hr",
+        "PP": 10,
+        "vitals": 1000,
+        "battles": 8,
+        "victoryPercent": "None",
+        "adventureCleared": 0
+      }
+    },
+    {
+      "evolutionName": "Sealsdramon",
+      "requirements": {
+        "time": "12:00 hr",
+        "PP": 8,
+        "vitals": 1500,
+        "battles": 10,
+        "victoryPercent": "None",
+        "adventureCleared": 6
+      }
+    }
+  ]
+}

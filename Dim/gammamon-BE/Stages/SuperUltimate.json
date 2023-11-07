@@ -1,0 +1,14 @@
+{
+  "stage": "Super Ultimate / Mega II",
+  "digimon": [
+    {
+      "name": "Proximamon",
+      "attribute": "Virus",
+      "BP": 6500,
+      "HP": 4900,
+      "AP": 2000,
+      "activityType": "Normal",
+      "criticalHit": "Turn 3"
+    }
+  ]
+}

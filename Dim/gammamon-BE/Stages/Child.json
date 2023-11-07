@@ -1,0 +1,126 @@
+{
+  "stage": "Child / Rockie",
+  "digimon": [
+    {
+      "name": "Gammamon",
+      "attribute": "Virus",
+      "BP": 4600,
+      "HP": 2970,
+      "AP": 1000,
+      "activityType": "Normal",
+      "criticalHit": "Turn 3",
+      "evolutions": [
+        {
+          "evolutionName": "Betle Gammamon",
+          "requirements": {
+            "time": "12:00 hr",
+            "PP": 10,
+            "vitals": 1000,
+            "battles": 8,
+            "victoryPercent": "None",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Kaus Gammamon",
+          "requirements": {
+            "time": "12:00 hr",
+            "PP": 8,
+            "vitals": 1000,
+            "battles": 5,
+            "victoryPercent": "None",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Wezen Gammamon",
+          "requirements": {
+            "time": "12:00 hr",
+            "PP": 5,
+            "vitals": 500,
+            "battles": 3,
+            "victoryPercent": "None",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Gulus Gammamon",
+          "requirements": {
+            "time": "12:00 hr",
+            "PP": 0,
+            "vitals": 0,
+            "battles": 0,
+            "victoryPercent": "None",
+            "adventureCleared": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bokomon",
+      "attribute": "Vaccine",
+      "BP": 4100,
+      "HP": 2800,
+      "AP": 1100,
+      "activityType": "Active",
+      "criticalHit": "Turn 2",
+      "evolutions": [
+        {
+          "evolutionName": "Betle Gammamon",
+          "requirements": {
+            "time": "12:00 hr",
+            "PP": 10,
+            "vitals": 1000,
+            "battles": 8,
+            "victoryPercent": "None",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Sealsdramon",
+          "requirements": {
+            "time": "12:00 hr",
+            "PP": 8,
+            "vitals": 1500,
+            "battles": 10,
+            "victoryPercent": "None",
+            "adventureCleared": 6
+          }
+        }
+      ]
+    },
+    {
+      "name": "Koemon",
+      "attribute": "Virus",
+      "BP": 4500,
+      "HP": 3000,
+      "AP": 1000,
+      "activityType": "Stoic",
+      "criticalHit": "Turn 1",
+      "evolutions": [
+        {
+          "evolutionName": "Kaus Gammamon",
+          "requirements": {
+            "time": "12:00 hr",
+            "PP": 8,
+            "vitals": 1000,
+            "battles": 5,
+            "victoryPercent": "None",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Wezen Gammamon",
+          "requirements": {
+            "time": "12:00 hr",
+            "PP": 5,
+            "vitals": 500,
+            "battles": 3,
+            "victoryPercent": "None",
+            "adventureCleared": 0
+          }
+        }
+      ]
+    }
+  ]
+}

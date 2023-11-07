@@ -1,0 +1,49 @@
+{
+  "stage": "Baby II / Intrain",
+  "digimon": [
+    {
+      "name": "Guri",
+      "attribute": "free",
+      "BP": 0,
+      "HP": 0,
+      "AP": 0,
+      "activityType": "none",
+      "criticalHit": "none",
+      "evolutions": [
+        {
+          "evolutionName": "Gammamon",
+          "requirements": {
+            "time": "3:00 hr",
+            "PP": 0,
+            "vitals": 0,
+            "battles": 0,
+            "victoryPercent": "0%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Bokomon",
+          "requirements": {
+            "time": "3:00 hr",
+            "PP": 3,
+            "vitals": 500,
+            "battles": 0,
+            "victoryPercent": "0%",
+            "adventureCleared": 2
+          }
+        },
+        {
+          "evolutionName": "Koemon",
+          "requirements": {
+            "time": "3:00 hr",
+            "PP": 5,
+            "vitals": 500,
+            "battles": 0,
+            "victoryPercent": "0%",
+            "adventureCleared": 3
+          }
+        }
+      ]
+    }
+  ]
+}

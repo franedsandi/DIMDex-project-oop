@@ -1,0 +1,33 @@
+{
+  "name": "Koemon",
+  "attribute": "Virus",
+  "BP": 4500,
+  "HP": 3000,
+  "AP": 1000,
+  "activityType": "Stoic",
+  "criticalHit": "Turn 1",
+  "evolutions": [
+    {
+      "evolutionName": "Kaus Gammamon",
+      "requirements": {
+        "time": "12:00 hr",
+        "PP": 8,
+        "vitals": 1000,
+        "battles": 5,
+        "victoryPercent": "None",
+        "adventureCleared": 0
+      }
+    },
+    {
+      "evolutionName": "Wezen Gammamon",
+      "requirements": {
+        "time": "12:00 hr",
+        "PP": 5,
+        "vitals": 500,
+        "battles": 3,
+        "victoryPercent": "None",
+        "adventureCleared": 0
+      }
+    }
+  ]
+}

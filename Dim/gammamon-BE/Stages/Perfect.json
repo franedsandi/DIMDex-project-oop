@@ -1,0 +1,236 @@
+{
+  "stage": "Perfect / Ultimate",
+  "digimon": [
+    {
+      "name": "Canoweissmon",
+      "attribute": "Vaccine",
+      "BP": 5600,
+      "HP": 4500,
+      "AP": 1550,
+      "activityType": "Stoic",
+      "criticalHit": "Turn 1",
+      "evolutions": [
+        {
+          "evolutionName": "Siriusmon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 15,
+            "vitals": 3500,
+            "battles": 20,
+            "victoryPercent": "60%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Cannondramon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 12,
+            "vitals": 3000,
+            "battles": 15,
+            "victoryPercent": "50%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Spinomon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 10,
+            "vitals": 2500,
+            "battles": 15,
+            "victoryPercent": "60%",
+            "adventureCleared": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fumamon",
+      "attribute": "Data",
+      "BP": 5800,
+      "HP": 4500,
+      "AP": 1450,
+      "activityType": "Normal",
+      "criticalHit": "Turn 3",
+      "evolutions": [
+        {
+          "evolutionName": "Siriusmon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 12,
+            "vitals": 3500,
+            "battles": 20,
+            "victoryPercent": "60%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Cannondramon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 10,
+            "vitals": 3000,
+            "battles": 15,
+            "victoryPercent": "60%",
+            "adventureCleared": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ghilliedhumon",
+      "attribute": "Data",
+      "BP": 6000,
+      "HP": 3500,
+      "AP": 1610,
+      "activityType": "Stoic",
+      "criticalHit": "Turn 1",
+      "evolutions": [
+        {
+          "evolutionName": "Cannondramon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 12,
+            "vitals": 3000,
+            "battles": 15,
+            "victoryPercent": "50%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Spinomon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 10,
+            "vitals": 2500,
+            "battles": 15,
+            "victoryPercent": "60%",
+            "adventureCleared": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bombermon",
+      "attribute": "Virus",
+      "BP": 5100,
+      "HP": 4500,
+      "AP": 1600,
+      "activityType": "Active",
+      "criticalHit": "Turn 2",
+      "evolutions": [
+        {
+          "evolutionName": "Spinomon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 10,
+            "vitals": 2500,
+            "battles": 15,
+            "victoryPercent": "60%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Kuzuhamon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 12,
+            "vitals": 4000,
+            "battles": 20,
+            "victoryPercent": "60%",
+            "adventureCleared": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zanmetsumon",
+      "attribute": "Virus",
+      "BP": 5800,
+      "HP": 4300,
+      "AP": 1550,
+      "activityType": "Indoor",
+      "criticalHit": "Turn 4",
+      "evolutions": [
+        {
+          "evolutionName": "Siriusmon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 10,
+            "vitals": 3500,
+            "battles": 20,
+            "victoryPercent": "60%",
+            "adventureCleared": 0
+          }
+        },
+        {
+          "evolutionName": "Kuzuhamon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 12,
+            "vitals": 4000,
+            "battles": 20,
+            "victoryPercent": "60%",
+            "adventureCleared": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Regulusmon",
+      "attribute": "Virus",
+      "BP": 5700,
+      "HP": 4000,
+      "AP": 1610,
+      "activityType": "Active",
+      "criticalHit": "Turn 2",
+      "evolutions": [
+        {
+          "evolutionName": "Arcturusmon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 20,
+            "vitals": 3500,
+            "battles": 20,
+            "victoryPercent": "60%",
+            "adventureCleared": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gulus Gammamon",
+      "attribute": "Virus",
+      "BP": 5300,
+      "HP": 3700,
+      "AP": 1250,
+      "activityType": "Lazy",
+      "criticalHit": "Turn 5",
+      "evolutions": [
+        {
+          "evolutionName": "Kuzuhamon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 20,
+            "vitals": 4000,
+            "battles": 20,
+            "victoryPercent": "60%",
+            "adventureCleared": 11
+          }
+        },
+        {
+          "evolutionName": "Arcturusmon",
+          "requirements": {
+            "time": "24:00 hr",
+            "PP": 20,
+            "vitals": 3500,
+            "battles": 20,
+            "victoryPercent": "60%",
+            "adventureCleared": 12
+          }
+        }
+      ]
+    }
+  ]
+}
